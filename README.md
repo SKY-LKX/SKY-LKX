@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SKY-LKX
+- 👋 Hi, I’m SKY
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python and c++
 - 📫 How to reach me ...
